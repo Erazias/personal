@@ -1,6 +1,6 @@
 ### PLEASE NOTE THIS WONT BE UPDATED AND ALL ASSET IDS ARE AS OF AUGUST 1ST 2023
 
-Every dynamic head usually has 3 assets: head, mood & eyebrows. By taking the id of the **head**, you can choose your custom head shape, which you can then also pair with a **mood**, resulting in a custom dynamic head combination. Here is all the id's of the custom head shapes (please note you must have the Stevie Standard, Devon Default and Dylan Default dynamic heads for this to work):
+Every dynamic head usually has 3 assets: head, mood & eyebrows. By taking the id of the **head**, you can choose your custom head shape, which you can then also pair with a **mood**, resulting in a custom dynamic head combination. You pu these ids in the **advanced** tab in the Avatar Editor. Here is all the id's of the custom head shapes (please note you must have the Stevie Standard, Devon Default and Dylan Default dynamic heads for this to work):
 
 * Default Head (uses Stevie Standard): 10638267973
 * Woman Head (uses Devon Default): 10723855306
